@@ -2546,6 +2546,15 @@
       "Disable-NetAdapterBinding -Name \"*\" -ComponentID ms_tcpip6"
     ]
   },
+  "WPFTweaksDisableNews": {
+    "Content": "Disable News Ads",
+    "Description": "Disables News and Interests from the Windows 10 Start Menu or disable the Widgets applet on Windows 11.",
+    "category": "Essential Tweaks",
+    "panel": "1",
+    "Order": "a014_",
+    "InvokeScript": [],
+    "UndoScript": []
+  },
   "WPFToggleDarkMode": {
     "Content": "Dark Theme",
     "Description": "Enable/Disable Dark Mode.",
